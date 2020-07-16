@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**nelsonmfinda/nelsonmfinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I’m Nelson Mfinda from Angola. I’ve been working as Software Developer since 2018, always up for learning new things and helping along the way.
 
 Here are some ideas to get you started:
 
